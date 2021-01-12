@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Douglas Saisho Overwatch Hero Counter Guide</title>
+    <link rel='stylesheet' href="_output/main.css" type='text/css' media='all' />
+    <script src="./_output/ow_json_data.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <script>
+        const HERO_GOOD_COUNTERS = "counter-good";
+        const HERO_BAD_COUNTERS = "counter-bad";
+        const owData = window.OW_DATA;
+        const charList = getCharList_data(owData);
+
+        $(function () {
+            init();
+        })
+
+        function init() {
+            const charMarkup = getCharList_markup(charList);
+
+            $('.chars-list #tank .list').prepend(charMarkup['tank']);
+            $('.chars-list #attack .list').prepend(charMarkup['attack']);
+            $('.chars-list #heal .list').prepend(charMarkup['heal']);
+
+            $('.hero-list-item').click(heroClicked);
+        }
+
+        function heroClicked(e) {
+            const hero = e.currentTarget.id.split('hero_')[1];
+            const heroImgSrc = `_output/hero-icons/${charList[hero]}.png`;
+            const heroGoodCounters_data = getHeroCounters_data(hero, owData, HERO_GOOD_COUNTERS)
+            const heroBadCounters_data = getHeroCounters_data(hero, owData, HERO_BAD_COUNTERS)
+
+            const heroGoodCounters_markup = getHeroCounters_markup(heroGoodCounters_data, "good");
+            const heroBadCounters_markup = getHeroCounters_markup(heroBadCounters_data, "bad");
+
+            $('.hide').removeClass('hide');
+
+            $('.counters-good .content').html(heroGoodCounters_markup);
+            $('.counters-bad .content').html(heroBadCounters_markup);
+            $('#selectedHeroImage').attr('src', heroImgSrc);
+            $('#selectedHeroName').html(hero);
+
+        }
+
+        function getCharList_data(_data) {
+            return Object.keys(_data[0]).reduce(function (acc, key, index) {
+                if (owData[0][key] != "counter-header") {
+                    const heroSearchName = key.toLowerCase().trim().replace('.', '').replace(': ', '')
+                    acc[key] = heroSearchName
+                    //{D.VA:dva}
+                }
+                return acc;
+            }, {})
+        }
+
+        function getCharList_markup(_data) {
+            /*
+            RETURN DATA:
+                {
+                    attack:html,
+                    heal:html,
+                    tank:html
+                }   
+            */
+            let charPositions = {
+                attack: ['ashe', 'bastion', 'doomfist', 'genji', 'hanzo', 'junkrat', 'mccree', 'mei', 'pharah',
+                    'soldier76', 'sombra', 'symmetra', 'torbjorn', 'tracer', 'widowmaker','reaper'
+                ],
+                heal: ['ana', 'baptiste', 'brigitte', 'lucio', 'mercy', 'moira', 'zenyatta'],
+                tank: ['dva', 'orisa', 'reinhardt', 'roadhog', 'sigma', 'winston', 'wreckingball', 'zarya']
+            };
+            const charMap = swapKeysWithValues(charList);
+            console.log(charMap)
+            return Object.keys(charPositions).reduce((acc, key, index) => {
+                let sectionListData = '';
+                charPositions[key].forEach((_heroSafeName) => {
+                    console.log(key, _heroSafeName, charMap[_heroSafeName])
+
+                    const heroIconSrc = `_output/hero-icons/${_heroSafeName}.png`;
+                    sectionListData +=
+                        `<div id="hero_${charMap[_heroSafeName]}" class="hero-list-item"><div class="img-container"><img width="100%" src="${heroIconSrc}"/></div><p>${charMap[_heroSafeName]}</p></div>`;
+                })
+                acc[key] = sectionListData;
+                return acc;
+            }, {})
+        }
+
+        function getHeroCounters_data(_hero, _data, _counterType) {
+            let counters;
+            let heroObject = getHero_data(_hero, _data);
+            counters = Object.keys(heroObject).reduce((acc, key, index) => {
+                let heroProps = heroObject[key];
+
+                if (heroProps.includes(_counterType)) {
+                    heroProps = heroProps.replace(_counterType, '').trim();
+                    acc[key] = heroProps;
+                }
+                return acc;
+            }, {})
+            return counters;
+        }
+
+        function getHero_data(_hero, _data) {
+            return Object.keys(_data).reduce((acc, _possibleHero, index) => {
+                const possibleHeroObject = _data[_possibleHero];
+                if (possibleHeroObject[_hero] == 'same-hero') {
+                    acc = possibleHeroObject;
+                }
+                return acc;
+            }, {})
+        }
+
+        function getHeroCounters_markup(_data, _type) {
+            let markupListHeader = `<ul class="hero-counters-${_type}">`;
+            let markupList = Object.keys(_data).reduce((acc, _hero, index) => {
+                let quality = _data[_hero];
+                const heroIcon = `_output/hero-icons/${charList[_hero]}.png`;
+
+                acc +=
+                    `<li id="hero-counter-${_hero}" class="hero-counter-item ${quality}"><img class="heroIcon" height="100%" src="${heroIcon}"/>${_hero}</li>`;
+                return acc;
+            }, markupListHeader);
+
+            markupList += '</ul>'
+            return markupList;
+        }
+        
+        function swapKeysWithValues(_obj) {
+            var ret = {};
+            for (var key in _obj) {
+                ret[_obj[key]] = key;
+            }
+            return ret;
+        }
+    </script>
+
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="header"><span>OVERWATCH &nbsp </span> HERO COUNTERS</div>
+        <div class="counter-containers">
+            <div class="counters-good counters hide">
+                <h1>GOOD AGAINST</h1>
+                <div class="content"></div>
+            </div>
+            <div class='selected-hero'>
+                <div class="image-image">
+                    <img id="selectedHeroImage" class="hide"/>
+                </div>
+                <h1 id="selectedHeroName">Select a hero from below  </h1>
+            </div>
+            <div class="counters-bad counters hide">
+                <h1>BAD AGAINST</h1>
+                <div class="content"></div>
+            </div>
+        </div>
+        <div class="chars-list">
+            <div id="attack" class="list-container">
+                <h1>Attack Heroes</h1>
+                <div class="list"></div>
+            </div>
+            <div id="heal" class="list-container">
+                <h1>Healing Heroes</h1>
+                <div class="list"></div>
+            </div>
+            <div id="tank" class="list-container">
+                <h1>Tank Heroes</h1>
+                <div class="list"></div>
+            </div>
+        </div>
+        <div class="footer">All data is from: &nbsp <span><a href="https://www.heropicker.com/overwatch-counters/">https://www.heropicker.com/overwatch-counters</a></span></div>
+    </div>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LBVF997P2F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LBVF997P2F');
+</script>
+</body>
+
+</html>

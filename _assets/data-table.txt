@@ -1,0 +1,1094 @@
+<table style="max-width:100%;" class="counter-table">
+<thead>
+<tr>
+<th class="blank">&nbsp;</th>
+<th>ANA</th>
+<th>ASHE</th>
+<th>BAPTISTE</th>
+<th>BASTION</th>
+<th>BRIGITTE</th>
+<th>D.VA</th>
+<th>DOOMFIST</th>
+<th>GENJI</th>
+<th>HANZO</th>
+<th>JUNKRAT</th>
+<th>LUCIO</th>
+<th>MCCREE</th>
+<th>MEI</th>
+<th>MERCY</th>
+<th>MOIRA</th>
+<th>ORISA</th>
+<th>PHARAH</th>
+<th>REAPER</th>
+<th>REINHARDT</th>
+<th>ROADHOG</th>
+<th>SIGMA</th>
+<th>SOLDIER: 76</th>
+<th>SOMBRA</th>
+<th>SYMMETRA</th>
+<th>TORBJORN</th>
+<th>TRACER</th>
+<th>WIDOWMAKER</th>
+<th>WINSTON</th>
+<th>WRECKINGBALL</th>
+<th>ZARYA</th>
+<th>ZENYATTA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="counter-header">Ana</td>
+<td class="counter-data same-hero"></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data"></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+</tr>
+<tr>
+<td class="counter-header">Ashe</td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero"></td>
+<td class="counter-data"></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Baptiste</td>
+<td class="counter-data"></td>
+<td class="counter-data"></td>
+<td class="counter-data same-hero counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Bastion</td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data"></td>
+<td class="counter-data"></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Brigitte</td>
+<td class="counter-data"></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data"></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">D.VA</td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data"></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Doomfist</td>
+<td class="counter-data"></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data"></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Genji</td>
+<td class="counter-data"></td>
+<td class="counter-data"></td>
+<td class="counter-data"></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Hanzo</td>
+<td class="counter-data"></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data"></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Junkrat</td>
+<td class="counter-data"></td>
+<td class="counter-data"></td>
+<td class="counter-data"></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Lucio</td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">McCree</td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Mei</td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Mercy</td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Moira</td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Orisa</td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Pharah</td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Reaper</td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+</tr>
+<tr>
+<td class="counter-header">Reinhardt</td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Roadhog</td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Sigma</td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Soldier: 76</td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Sombra</td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+</tr>
+<tr>
+<td class="counter-header">Symmetra</td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Torbjorn</td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Tracer</td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+</tr>
+<tr>
+<td class="counter-header">Widowmaker</td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Winston</td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+</tr>
+<tr>
+<td class="counter-header">Wrecking Ball</td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+</tr>
+<tr>
+<td class="counter-header">Zarya</td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-strong"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data same-hero  "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+</tr>
+<tr>
+<td class="counter-header">Zenyatta</td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-medium"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-bad counter-strong"><i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i> <i class="x-icon x-icon-minus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data   "></td>
+<td class="counter-data  counter-good counter-medium"><i class="x-icon x-icon-plus" data-x-icon="" aria-hidden="true"></i></td>
+<td class="counter-data same-hero  "></td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,1094 @@
+<table style="max-width:100%;" class="counter-table">
+<thead>
+<tr>
+<th class="blank">&nbsp;</th>
+<th>ANA</th>
+<th>ASHE</th>
+<th>BAPTISTE</th>
+<th>BASTION</th>
+<th>BRIGITTE</th>
+<th>D.VA</th>
+<th>DOOMFIST</th>
+<th>GENJI</th>
+<th>HANZO</th>
+<th>JUNKRAT</th>
+<th>LUCIO</th>
+<th>MCCREE</th>
+<th>MEI</th>
+<th>MERCY</th>
+<th>MOIRA</th>
+<th>ORISA</th>
+<th>PHARAH</th>
+<th>REAPER</th>
+<th>REINHARDT</th>
+<th>ROADHOG</th>
+<th>SIGMA</th>
+<th>SOLDIER: 76</th>
+<th>SOMBRA</th>
+<th>SYMMETRA</th>
+<th>TORBJORN</th>
+<th>TRACER</th>
+<th>WIDOWMAKER</th>
+<th>WINSTON</th>
+<th>WRECKINGBALL</th>
+<th>ZARYA</th>
+<th>ZENYATTA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>counter-header</td>
+<td> same-hero</td>
+<td>  counter-good counter-medium</td>
+<td></td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-bad counter-medium</td>
+<td> same-hero</td>
+<td></td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-strong</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td></td>
+<td></td>
+<td> same-hero counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-bad counter-medium</td>
+<td></td>
+<td></td>
+<td> same-hero  </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td></td>
+<td>  counter-bad counter-medium</td>
+<td></td>
+<td>   </td>
+<td> same-hero  </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td></td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td> same-hero  </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-strong</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td></td>
+<td>  counter-bad counter-medium</td>
+<td></td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td> same-hero  </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td></td>
+<td></td>
+<td></td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td> same-hero  </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td></td>
+<td>  counter-bad counter-medium</td>
+<td></td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td></td>
+<td></td>
+<td></td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td> same-hero  </td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td> same-hero  </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td> same-hero  </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td> same-hero  </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-strong</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td> same-hero  </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-strong</td>
+<td> same-hero  </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-strong</td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-bad counter-strong</td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td> same-hero  </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-strong</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td> same-hero  </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td> same-hero  </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td> same-hero  </td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td> same-hero  </td>
+<td>   </td>
+<td>   </td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td> same-hero  </td>
+<td>  counter-bad counter-medium</td>
+</tr>
+<tr>
+<td>counter-header</td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-medium</td>
+<td>   </td>
+<td>   </td>
+<td>  counter-bad counter-strong</td>
+<td>   </td>
+<td>   </td>
+<td>   </td>
+<td>  counter-good counter-medium</td>
+<td> same-hero  </td>
+</tr>
+</tbody>
+</table>

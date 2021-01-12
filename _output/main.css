@@ -1,0 +1,161 @@
+@font-face {
+    font-family: "ow";
+    src: url("./big_noodle_titling.ttf") format("truetype");
+}
+
+* {
+    font-family: ow;
+}
+body{
+    margin: 0;
+}
+.hide{display: none;}
+.container{
+    height: 100vh;
+    background-image:url("https://siliconangle.com/wp-content/blogs.dir/1/files/2015/11/overwatch-heroes-background-blizzard.png");
+    background-size: cover;
+}
+
+.counter-containers{
+    flex-grow:1;
+    flex-direction: row;
+    display:flex;
+    justify-content: center;    
+    margin-top: 20px;
+}
+.counter-containers h1{
+    margin:0 10px;
+}
+.counters-good h1{
+    color:green;
+}
+.counters-bad h1{
+    color: red;
+}
+
+.counter-strong{
+    color: yellow;
+}
+.counter-medium{
+    color:#f3f8a5;
+}
+.counters{
+    align-self: end;
+    background-color: rgba(0,0,0,.8);
+    padding: 10px;
+}
+.counters ul{
+    padding: 0;
+}
+.hero-counter-item{
+    height: 30px;
+    list-style-type: none;
+    display:flex;
+    align-items: center;
+    margin-bottom: 3px;
+}
+.hero-counter-item .heroIcon{
+    margin-right: 20px;
+}
+.selected-hero{
+    min-width: 160px;
+    display:flex;
+    align-items:center;
+    flex-direction:column;
+    padding: 7px;
+    align-self: baseline;
+    background-color: #808080;
+    border: #f89e1b medium solid;
+    margin: 0 200px;
+    margin-top: 15px;
+    -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 0px 29px 20px rgba(0,0,0,0.86); 
+box-shadow: 0px 10px 13px -7px #000000, 0px 0px 29px 20px rgba(0,0,0,0.86);
+}
+.selected-hero h1{
+    text-align: center;
+    color: #ff0;
+    background-color: #000;
+    width: 100%;
+    margin: 10px 0;
+}
+div.hero-list-item {
+    list-style-type: none;
+    cursor: pointer;
+    display: flex;
+    height: 70px;
+    margin: 0 3px;
+    width: 90px;
+    padding: 5px;
+    background-color: #808080;
+    flex-direction: column;
+    align-items:center;
+}
+
+div.hero-list-item p {
+    display: flex;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:0;
+    padding:0;
+    background-color: yellow;
+    width: 90%;
+    margin: 10px 0;
+}
+
+div.hero-list-item:hover {
+    color: chocolate;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.chars-list{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    padding-top:10px;
+    background-color: rgba(0,0,0,.8)
+}
+
+.list-container{
+    display:flex;
+    justify-content:center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.list-container h1{
+    margin: 0;
+    text-align: center;
+    color:#f89e1b;
+}
+
+.list-container .list{
+    display:flex;
+    flex-direction: row;
+}
+.img-container{
+    display:flex;
+    width:60px;
+}
+.header, .footer{
+    width: 100%;
+    background-color:black;
+    height: 30px;
+    color: white;
+    text-align: center;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+}
+.header{
+    font-size: 20px;
+}
+.header span,.footer span a{
+    color: #f89e1b;
+}
+
