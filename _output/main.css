@@ -5,34 +5,75 @@
 
 * {
     font-family: ow;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
 }
 body{
     margin: 0;
+    overflow-x:hidden;
+    background-color:black;
 }
-.hide{display: none;}
+.hidden{display: none;}
 .container{
     height: 100vh;
     background-image:url("https://siliconangle.com/wp-content/blogs.dir/1/files/2015/11/overwatch-heroes-background-blizzard.png");
     background-size: cover;
+    margin:0 5px;
 }
-
 .counter-containers{
-    flex-grow:1;
-    flex-direction: row;
     display:flex;
-    justify-content: center;    
-    margin-top: 20px;
+    flex-direction:row;
+    flex-grow:1;
+}
+.counter-containers .msg_selected::after{
+    content:"selected";
+}
+.counter-containers .msg_not-selected::after{
+    content:"click to select this hero space";
 }
 .counter-containers h1{
     margin:0 10px;
+    font-size: 25px;
+    text-align:center;
 }
+.counter-container{
+    flex-grow:1;
+    flex-direction: column;
+    display:flex;    
+    width: 50%;
+    border: #ff0 solid thin;
+    background-color: rgba(0,0,0,.8);
+}
+.counter-container .content{
+    display: flex;
+    justify-content: center;
+}
+.counter-container .selected{
+    display: flex;
+    align-self: flex-end;
+    margin-top: auto;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    color: #fff;
+}
+.counter-container.container-2 .selected{
+    align-self: flex-start;
+    margin-left: 10px;
+}
+.counter-container.container-1 .msg_selected::after{
+    color:aqua;
+}
+.counter-container.container-2 .msg_selected::after{
+    color:crimson;
+}
+
 .counters-good h1{
     color:green;
 }
 .counters-bad h1{
     color: red;
 }
-
 .counter-strong{
     color: yellow;
 }
@@ -40,22 +81,24 @@ body{
     color:#f3f8a5;
 }
 .counters{
-    align-self: end;
-    background-color: rgba(0,0,0,.8);
-    padding: 10px;
+    align-self: auto;
+    margin: 2px;
 }
 .counters ul{
     padding: 0;
 }
 .hero-counter-item{
-    height: 30px;
+    height: 50px;
     list-style-type: none;
     display:flex;
     align-items: center;
-    margin-bottom: 3px;
+    margin: 0 10px;
+    margin-bottom: 10px;
+    width:140px;
+    font-size: 20px;
 }
 .hero-counter-item .heroIcon{
-    margin-right: 20px;
+    margin-right: 10px;
 }
 .selected-hero{
     min-width: 160px;
@@ -63,13 +106,13 @@ body{
     align-items:center;
     flex-direction:column;
     padding: 7px;
-    align-self: baseline;
+    align-self: center;
     background-color: #808080;
     border: #f89e1b medium solid;
     margin: 0 200px;
-    margin-top: 15px;
+    margin: 15px 0;
     -webkit-box-shadow: 0px 10px 13px -7px #000000, 0px 0px 29px 20px rgba(0,0,0,0.86); 
-box-shadow: 0px 10px 13px -7px #000000, 0px 0px 29px 20px rgba(0,0,0,0.86);
+    box-shadow: 0px 10px 13px -7px #000000, 0px 0px 29px 20px rgba(0,0,0,0.86);
 }
 .selected-hero h1{
     text-align: center;
@@ -78,7 +121,13 @@ box-shadow: 0px 10px 13px -7px #000000, 0px 0px 29px 20px rgba(0,0,0,0.86);
     width: 100%;
     margin: 10px 0;
 }
-div.hero-list-item {
+.hero-counter-stats{
+    flex-direction:column;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+}
+.hero-list-item {
     list-style-type: none;
     cursor: pointer;
     display: flex;
@@ -89,9 +138,16 @@ div.hero-list-item {
     background-color: #808080;
     flex-direction: column;
     align-items:center;
+    margin-bottom: 15px;
+}
+.hero-list-item.hero-1-active{
+    background-color:aqua;
+}
+.hero-list-item.hero-2-active{
+    background-color:crimson;
 }
 
-div.hero-list-item p {
+.hero-list-item p {
     display: flex;
     align-items: center;
     display: flex;
@@ -104,7 +160,7 @@ div.hero-list-item p {
     margin: 10px 0;
 }
 
-div.hero-list-item:hover {
+.hero-list-item:hover {
     color: chocolate;
 }
 
@@ -125,7 +181,6 @@ div.hero-list-item:hover {
     display:flex;
     justify-content:center;
     flex-direction: column;
-    margin-bottom: 20px;
 }
 .list-container h1{
     margin: 0;
@@ -136,6 +191,8 @@ div.hero-list-item:hover {
 .list-container .list{
     display:flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 .img-container{
     display:flex;
@@ -159,3 +216,39 @@ div.hero-list-item:hover {
     color: #f89e1b;
 }
 
+
+.hidden{display: none;}
+@media (max-width: 850px) {
+    *{
+    color: red;
+    }
+    .counters{
+        align-self:flex-start;
+    }
+    .counter-containers{
+        flex-direction: column;
+    }
+    .counter-container{
+        width: 100%;
+    }
+    .hero-counter-stats{
+        flex-direction: row;
+    }
+    .hero-counter-item{
+        height: 30px;
+        width: auto;
+        font-size: 16px;
+    }
+    .hero-counter-item .heroIcon{
+        margin-right: 20px;
+    }
+
+ }
+ @media (min-width: 851px) {
+    .counters .content ul{
+        display: flex;
+        flex-wrap: wrap;
+        width: 80%;
+        justify-content: center;
+    }
+ }
